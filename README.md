@@ -1,6 +1,7 @@
--## À propos de moi
 
-Je suis **Ingénieur Informatique** spécialisé dans les **systèmes embarqués**. Passionné par le développement de solutions innovantes, je me concentre sur la conception, la programmation et l'optimisation de logiciels pour des applications embarquées. Mon expertise inclut les microcontrôleurs, les systèmes d'exploitation temps réel (RTOS), et le développement matériel et logiciel. 
+
+I am a **Computer Engineer** specialized in **embedded systems**. Passionate about developing innovative solutions, I focus on the design, programming, and optimization of software for embedded applications. My expertise includes microcontrollers, real-time operating systems (RTOS), and both hardware and software development.
+
 
 
 <!---
