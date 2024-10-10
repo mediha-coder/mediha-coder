@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mediha-coder
-- 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning web development 
+-## À propos de moi
+
+Je suis **Ingénieur Informatique** spécialisé dans les **systèmes embarqués**. Passionné par le développement de solutions innovantes, je me concentre sur la conception, la programmation et l'optimisation de logiciels pour des applications embarquées. Mon expertise inclut les microcontrôleurs, les systèmes d'exploitation temps réel (RTOS), et le développement matériel et logiciel. 
 
 
 <!---
